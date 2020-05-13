@@ -1,0 +1,20 @@
+Chi-sqaure test scores:
+DISTANCE       0.912027
+ORIGIN         1.799161
+DAY_WEEK       4.555493
+DEST          12.427920
+CARRIER       36.061553
+DEPARTURE     81.005619
+Weather      132.560748
+Delay        156.352672
+FL_NUM       475.467476
+
+Accuracy: 92.05
+[[3.97524005 0.44249852 1.64149737 0.06529826 2.5813288 ]]
+Dep. Delay    0.697911
+Weather       0.247217
+7211          0.112191
+slot_11       0.092112
+746           0.087401
+
+
